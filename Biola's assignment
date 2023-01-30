@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<head>
+<title>
+    BIOLALAWAL
+</title>
+</head>
+<body>
+    <div>
+        <h2 style="color:brown">This is the link for my potfolio </h2>
+        <p> KNOWN <hr /><br /> Project 1 <hr /> DevOps <br /> </p>
+        <hr />
+        <p> This is the begining of DevOps engineering course: <br /> </p>
+        <ul type="square">
+            <li>Here are the course guide for the projects.</li>
+            <li>Create a Jenkins server.</li>
+            <li>Set up a pipeline.</li>
+
+        </ul> 
+    </div>
+</body>
